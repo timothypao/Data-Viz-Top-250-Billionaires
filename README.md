@@ -1,5 +1,5 @@
 # Top-250-Billionaires-Data-Viz
-The Tableau data visualization showcases the a focus on the top 250 billionaires in 2023, offering a comprehensive glimpse into their wealth distribution, industries, and geographic locations.
+This Tableau data visualization showcases the a focus on the top 250 billionaires in 2023, offering a comprehensive glimpse into their wealth distribution, industries, and geographic locations.
 
 Utilizing interactive features, viewers can dynamically explore the data, gaining insights into the billionaire landscape worldwide.
 
